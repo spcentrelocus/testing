@@ -10,12 +10,3 @@ email-validator==2.1.0.post1
 python-jose[cryptography]==3.3.0
 passlib[bcrypt]==1.7.4
 bcrypt==4.0.1
-python-multipart==0.0.6
-celery[redis]==5.3.6
-redis==5.0.1
-pandas==2.2.0
-python-dotenv==1.0.1
-httpx==0.26.0
-paramiko==3.4.0
-hello this is new changes
-do changes kiye hai
